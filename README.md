@@ -20,3 +20,6 @@ recommendation algorithm made using Machine Learning (ML)
 * The application protects user data as the data is end-to-end encrypted 
 * Our application can be accessed even offline as our tele-medicine 
 chatbots would be accessible via SMS
+
+![Screenshot (334)](https://github.com/ishanikundu/SIH2k23/assets/109578172/76c4cc68-67b1-4dab-926d-3c04895b66d6)
+![Screenshot (335)](https://github.com/ishanikundu/SIH2k23/assets/109578172/b6556d3a-83e4-45ff-8656-423bdef156a9)
